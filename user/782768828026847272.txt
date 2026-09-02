@@ -1,0 +1,71 @@
+{
+  "user": {
+    "id": "782768828026847272",
+    "username": "derbederrrr",
+    "global_name": "derbederrrr",
+    "avatar": "10a1fc76b2729c93e0e9749fec3764de",
+    "avatar_decoration_data": null,
+    "discriminator": "0",
+    "public_flags": 0,
+    "primary_guild": null,
+    "clan": null,
+    "flags": 0,
+    "banner": null,
+    "banner_color": "#88b9d4",
+    "accent_color": 8960468,
+    "bio": ""
+  },
+  "connected_accounts": [
+    {
+      "type": "domain",
+      "id": "derbeder.tr",
+      "name": "derbeder.tr",
+      "verified": true
+    }
+  ],
+  "premium_since": "2024-09-17T08:01:55.989879+00:00",
+  "premium_type": 2,
+  "premium_guild_since": "2024-09-17T20:46:23.179000+00:00",
+  "profile_themes_experiment_bucket": 4,
+  "user_profile": {
+    "bio": "",
+    "accent_color": 8960468,
+    "pronouns": "",
+    "profile_effect": null,
+    "banner": null,
+    "theme_colors": [
+      0,
+      0
+    ],
+    "popout_animation_particle_type": null,
+    "emoji": null
+  },
+  "badges": [
+    {
+      "id": "premium",
+      "description": "HypeSquad Balance",
+      "icon": "hype",
+      "link": "https://discord.com/settings/premium"
+    },
+    {
+      "id": "guild_booster_lvl3",
+      "description": "Active Developer",
+      "icon": "aktif",
+      "link": "https://discord.com/settings/premium"
+    },
+    {
+      "id": "quest_completed",
+      "description": "Server boosting since May 16, 2024",
+      "icon": "4seviye",
+      "link": "https://discord.com/discovery/quests"
+    },
+    {
+      "id": "hypesquad_house_1",
+      "description": "Originally known as maymuncan#7724 ",
+      "icon": "eski",
+      "link": "https://discord.com/settings/hypesquad-online"
+    }
+  ],
+  "guild_badges": [],
+  "legacy_username": null
+}
