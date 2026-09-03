@@ -1,8 +1,8 @@
 {
   "user": {
     "id": "1347882724194652275",
-    "username": "derbederrrr",
-    "global_name": "derbederrrr",
+    "username": "gitmesanamuhtacim",
+    "global_name": "gitmesanamuhtacim",
     "avatar": "10a1fc76b2729c93e0e9749fec3764de",
     "avatar_decoration_data": null,
     "discriminator": "0",
