@@ -41,12 +41,6 @@
     "emoji": null
   },
   "badges": [
-"nitroBadge" = {
-  id: "premium",
-  description: "Subscriber since Sep 17, 2024",
-  icon: "premium",
-  link: "https://discord.com/settings/premium"
-};
   ],
   "guild_badges": [],
   "legacy_username": null
