@@ -18,8 +18,8 @@
   "connected_accounts": [
     {
       "type": "domain",
-      "id": "derbeder.tr",
-      "name": "derbeder.tr",
+      "id": "gitmesanamuhtacimm.github.io",
+      "name": "gitmesanamuhtacimm.github.io",
       "verified": true
     }
   ],
