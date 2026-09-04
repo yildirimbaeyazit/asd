@@ -41,6 +41,13 @@
     "emoji": null
   },
   "badges": [
+ "premium": {
+    "id": "nitro",
+    "type": 2,
+    "name": "Nitro",
+    "icon": "nitro",
+    "since": "BURAYA_NITRO_ABONE_OLMA_TARIHI"
+  },
   ],
   "guild_badges": [],
   "legacy_username": null
