@@ -41,30 +41,6 @@
     "emoji": null
   },
   "badges": [
-    {
-      "id": "premium",
-      "description": "HypeSquad Balance",
-      "icon": "hype",
-      "link": "https://discord.com/settings/premium"
-    },
-    {
-      "id": "guild_booster_lvl3",
-      "description": "Active Developer",
-      "icon": "aktif",
-      "link": "https://discord.com/settings/premium"
-    },
-    {
-      "id": "quest_completed",
-      "description": "Server boosting since May 16, 2024",
-      "icon": "4seviye",
-      "link": "https://discord.com/discovery/quests"
-    },
-    {
-      "id": "hypesquad_house_1",
-      "description": "Originally known as maymuncan#7724 ",
-      "icon": "eski",
-      "link": "https://discord.com/settings/hypesquad-online"
-    }
   ],
   "guild_badges": [],
   "legacy_username": null
